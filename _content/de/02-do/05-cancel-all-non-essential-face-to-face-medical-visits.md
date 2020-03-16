@@ -13,5 +13,3 @@ Krankschreibungen für Menschen mit leichten Atemwegserkrankungen können
 in Deutschland jetzt telefonisch beim Hausarzt eingeholt werden. (Situation in DE, ergänzende Hinweise für andere Länder folgen)
 
 Wie immer gilt: In Notfällen wähle den Notruf 112 (gilt für ganz Europa)
-
-[Das ist gut aber weit weg vom Original, ist das so gewünscht?]
